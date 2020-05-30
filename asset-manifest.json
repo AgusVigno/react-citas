@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-citas/static/css/main.4c798faf.chunk.css",
+    "main.js": "/react-citas/static/js/main.94fb5cdb.chunk.js",
+    "main.js.map": "/react-citas/static/js/main.94fb5cdb.chunk.js.map",
+    "runtime-main.js": "/react-citas/static/js/runtime-main.ea3113d4.js",
+    "runtime-main.js.map": "/react-citas/static/js/runtime-main.ea3113d4.js.map",
+    "static/js/2.f89b7caf.chunk.js": "/react-citas/static/js/2.f89b7caf.chunk.js",
+    "static/js/2.f89b7caf.chunk.js.map": "/react-citas/static/js/2.f89b7caf.chunk.js.map",
+    "index.html": "/react-citas/index.html",
+    "precache-manifest.eb4502c69fc813c8a460ed847cb4cbfb.js": "/react-citas/precache-manifest.eb4502c69fc813c8a460ed847cb4cbfb.js",
+    "service-worker.js": "/react-citas/service-worker.js",
+    "static/css/main.4c798faf.chunk.css.map": "/react-citas/static/css/main.4c798faf.chunk.css.map",
+    "static/js/2.f89b7caf.chunk.js.LICENSE.txt": "/react-citas/static/js/2.f89b7caf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea3113d4.js",
+    "static/js/2.f89b7caf.chunk.js",
+    "static/css/main.4c798faf.chunk.css",
+    "static/js/main.94fb5cdb.chunk.js"
+  ]
+}
